@@ -1,0 +1,1 @@
+{"name":"Local: mystical number","url":"d:\\codechef-solutions\\may 2022 long challenge\\mystical number.cpp","tests":[{"id":1651855445027,"input":"1\n5\n1 2 3 4 5\n2\n1 5 4\n2 5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\may 2022 long challenge\\mystical number.cpp","group":"local","local":true}

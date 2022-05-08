@@ -31,3 +31,4 @@ int main()
        cout<<pushpa(a,n)<<endl;
     }
 }
+
