@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
-int goodpairs(int a[],int b[],int n)
+ll goodpairs(int a[],int b[],int n)
 {
     map<pair<int,int>,int>mp;
     ll ans=0;
