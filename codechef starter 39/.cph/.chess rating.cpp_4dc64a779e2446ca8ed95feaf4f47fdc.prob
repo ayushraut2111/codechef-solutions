@@ -1,0 +1,1 @@
+{"name":"Local: chess rating","url":"d:\\codechef-solutions\\codechef starter 39\\chess rating.cpp","tests":[{"id":1652884892941,"input":"4\n10 10\n10 17\n10 18\n10 19\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\codechef starter 39\\chess rating.cpp","group":"local","local":true}
