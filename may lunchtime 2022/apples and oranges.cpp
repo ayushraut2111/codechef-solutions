@@ -5,5 +5,5 @@ int main()
 {
     int x,a,b;
     cin>>x>>a>>b;
-    a+b<=x?cout<<"yes"<<endl:cout<<"no"<<endl;
+    a+b<=x?cout<<"yes":cout<<"no";
 }
