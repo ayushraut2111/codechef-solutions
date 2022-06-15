@@ -1,1 +1,3 @@
-print(1//2)
+a="ayushchaurasia"
+b=a[::-2]
+print(b)
