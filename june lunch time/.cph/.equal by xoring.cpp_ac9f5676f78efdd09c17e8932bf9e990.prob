@@ -1,0 +1,1 @@
+{"name":"Local: equal by xoring","url":"d:\\codechef-solutions\\june lunch time\\equal by xoring.cpp","tests":[{"id":1655655781113,"input":"3\n5 5 2\n3 7 8\n8 11 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\june lunch time\\equal by xoring.cpp","group":"local","local":true}
