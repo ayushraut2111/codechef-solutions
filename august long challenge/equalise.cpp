@@ -93,7 +93,19 @@ const ll M = 1e9 + 7;
 const ll INF = 1e9;
 const ld EPS = 1e-9;
 
-
+bool equalise(int a,int b)
+{
+    int x=max(a,b);
+    int y=min(a,b);
+    while(y<x)
+    {
+        y*=2;
+    }
+    if(x==y)
+    return true;
+    else
+    return false;
+}
 
 int main()
 {
@@ -103,9 +115,9 @@ int main()
     cin>>t;
     while(t--)
     {
-        int x;
-        cin>>x;
-        cout<<2*x<<endl;
-
+    int a,b;
+    cin>>a>>b;
+    equalise(a,b)?cout<<"YES"<<endl:cout<<"NO"<<endl;
+        
     }
 }

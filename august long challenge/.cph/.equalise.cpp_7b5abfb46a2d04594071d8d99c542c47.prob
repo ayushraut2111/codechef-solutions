@@ -1,0 +1,1 @@
+{"name":"Local: equalise","url":"d:\\codechef-solutions\\august long challenge\\equalise.cpp","tests":[{"id":1660408569485,"input":"4\n5 20\n6 6\n12 2\n50 20","output":"YES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\august long challenge\\equalise.cpp","group":"local","local":true}
