@@ -117,7 +117,7 @@ int main()
     {
     int a,b;
     cin>>a>>b;
-    equalise(a,b)?cout<<"YES"<<endl:cout<<"NO"<<endl; //abcd
+    equalise(a,b)?cout<<"YES"<<endl:cout<<"NO"<<endl;
         
     }
 }
