@@ -1,0 +1,1 @@
+{"name":"Local: binary substitution","url":"d:\\codechef-solutions\\october long challenge\\binary substitution.py","tests":[{"id":1665294046875,"input":"3\nab\naa\nabb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\october long challenge\\binary substitution.py","group":"local","local":true}
