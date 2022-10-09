@@ -1,0 +1,1 @@
+{"name":"Local: building race","url":"d:\\codechef-solutions\\october long challenge\\building race.py","tests":[{"id":1665243518272,"input":"4\n2 2 2 2\n4 2 1 5\n3 2 4 1\n3 2 2 1","output":"Both\nChefina\nChef\nChef"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\october long challenge\\building race.py","group":"local","local":true}
