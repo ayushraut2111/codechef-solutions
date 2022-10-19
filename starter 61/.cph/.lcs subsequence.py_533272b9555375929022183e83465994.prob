@@ -1,0 +1,1 @@
+{"name":"Local: lcs subsequence","url":"d:\\codechef-solutions\\starter 61\\lcs subsequence.py","tests":[{"id":1666191917043,"input":"3\n4\naaaa\naaab\n1\nc\nz\n5\nabcde\ncdefg","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 61\\lcs subsequence.py","group":"local","local":true}
