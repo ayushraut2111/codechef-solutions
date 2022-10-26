@@ -1,0 +1,1 @@
+{"name":"Local: final sum","url":"d:\\codechef-solutions\\starter 62\\final sum.py","tests":[{"id":1666797412957,"input":"2\n5 3\n1 3 4 4 2\n1 5\n3 4\n2 2\n1 2\n4\n1 1\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 62\\final sum.py","group":"local","local":true}
