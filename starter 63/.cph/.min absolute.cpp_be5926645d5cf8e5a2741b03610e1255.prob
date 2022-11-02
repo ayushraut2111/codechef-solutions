@@ -1,0 +1,1 @@
+{"name":"Local: min absolute","url":"d:\\codechef-solutions\\starter 63\\min absolute.cpp","tests":[{"id":1667408812572,"input":"4\n3\nabb\nbaz\n3\nzzc\naaa\n4\nfxbs\ndkrc\n5\neaufq\ndrtkn","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 63\\min absolute.cpp","group":"local","local":true}
