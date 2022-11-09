@@ -1,0 +1,1 @@
+{"name":"Local: distinct neighbour","url":"d:\\codechef-solutions\\starter 64\\distinct neighbour.cpp","tests":[{"id":1668013686045,"input":"3\n21 63\n72 72\n25 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 64\\distinct neighbour.cpp","group":"local","local":true}

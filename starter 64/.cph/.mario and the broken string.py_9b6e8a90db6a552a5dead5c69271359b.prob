@@ -1,0 +1,1 @@
+{"name":"Local: mario and the broken string","url":"d:\\codechef-solutions\\starter 64\\mario and the broken string.py","tests":[{"id":1668005093368,"input":"4\n6\nabcabc\n6\nabcdef\n4\naaaa\n4\nbaab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 64\\mario and the broken string.py","group":"local","local":true}
