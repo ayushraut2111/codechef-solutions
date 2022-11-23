@@ -1,0 +1,1 @@
+{"name":"Local: connect all cities","url":"d:\\codechef-solutions\\starter 66\\connect all cities.py","tests":[{"id":1669223254046,"input":"2\n4\n4 4 4 4\n3\n2 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 66\\connect all cities.py","group":"local","local":true}
