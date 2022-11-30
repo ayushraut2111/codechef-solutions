@@ -1,0 +1,1 @@
+{"name":"Local: xor","url":"d:\\codechef-solutions\\starter 67\\xor.py","tests":[{"id":1669826689894,"input":"5\n2 5 7\n2 3 13\n7 0 7\n2 7 6\n1 6 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef-solutions\\starter 67\\xor.py","group":"local","local":true}
