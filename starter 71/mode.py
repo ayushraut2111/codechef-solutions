@@ -6,6 +6,7 @@ def mode(a):
         else:
             dic[i]+=1
     d = list(sorted(dic.items(), key=lambda x:x[1]))
+    # print(d)
     d.reverse()
     # print(d)
     s=[]
@@ -44,4 +45,3 @@ for _ in range(int(input())):
         if x!=-1:
             p.append(x)
     print(len(p))
-
